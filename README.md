@@ -1,6 +1,6 @@
 # HollyBolly - The Mystery of Bollywood Drama </br>  Data analysis project
 
-##Intro
+## Intro
 **We're Maayan Magenheim and Jehonathan Spigelman, two guys who love cinema, Indians, kitsch and stupidity, not necessarily in this order**. 
 The Indian film industry, which in contrast to Hollywood serves more or less one unique culture, intrigues us and raises interesting questions about how kitsch is created, and whether it is the content or form that creates it. This project was created as part of the course "Big Data Analysis" as part of the Department of Internet and Society at the Hebrew University of Jerusalem, under the supervision of Prof. Dafna Shahaf.
 
