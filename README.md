@@ -24,8 +24,7 @@ The method for the emotional timeline creation was:
 The method for the silence timeline creation was similar: in each subtitle file, the exact time of each subtitle is noted. We calculated the difference between the end time of each subtitle and the time of the next subtitle - this is the time of silence.
 Again, we divided each film to percentages and found how many silence “peaks” (== silence of more than five seconds) each percentage contains. After that, we calculated the average number of peaks.
 
-**We found really interesting and cool things. [Here](https://docs.google.com/presentation/d/1R-tbiFE6VO4HuTHPJJz7GieSk3MhdVkuNG7904N0k0Q/edit?usp=sharing) you can view the details of the results (and some really cool GIF's of the artist Eran Mendel!).
-**
+**We found really interesting and cool things.** [Here](https://docs.google.com/presentation/d/1R-tbiFE6VO4HuTHPJJz7GieSk3MhdVkuNG7904N0k0Q/edit?usp=sharing) you can view the details of the results (and some really cool GIF's of the artist Eran Mendel!).
 
 A technical and detailed summary of the project (in Hebrew) can be found [here](https://docs.google.com/document/d/1IXjdRqUyF6k394ISiknMfIBmFOPCBfwl2-r8-n6rGjI/edit?usp=sharing).
 
